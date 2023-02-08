@@ -10,4 +10,4 @@ This is a website that lets you 'shop' for race cars online. There's a product p
 * Better code organization
 * A few CSS and Javascript elements
 
-Note: The course in which I completed this did not teach CSS, and I didn't know there was a recommended prerequisite where CSS is taught. The CSS in this project is rough, and some of the lines of code may be unnecessary/incorrect. If you use a phone to view the website, it's likely that things will not look right and text will be overflowing out of their desired boxes.
+Note: The course in which I completed this did not teach CSS, and I was unaware of the recommended prerequisite where CSS is taught. The CSS in this project is rough, and some of the lines of code may be unnecessary/incorrect. If you use a phone to view the website, it's likely that things will not look right and text will be overflowing out of their desired boxes. However, everything looks perfect on any normal computer screen.
