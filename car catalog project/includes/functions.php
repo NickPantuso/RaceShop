@@ -1,10 +1,7 @@
 <?php
 error_reporting(0);
 
-	define('HOST', 'byethost32.org');
-	define('USER', 'nickpant');
-	define('PASS', 'j5VWn!sJ-T7m15');
-	define('DB', 'nickpant_raceshop');
+	/*NORMALLY THIS IS WHERE I DEFINE THE HOST, USER, PASS, AND DB VALUES*/
 	
 	function connectToDB()
 	{
