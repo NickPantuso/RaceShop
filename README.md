@@ -8,7 +8,7 @@ A website that lets you 'shop' for race cars online. Features a product page whe
 
 * Transferring code to a host to create a public website
 * PHP and a variety of its tools
-* Creating and connecting to a database
+* Connecting to and creating a database
 * Improved code organization
 * A few CSS and Javascript elements
 
