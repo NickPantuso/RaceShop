@@ -11,10 +11,9 @@ A website that lets you 'shop' for race cars online. Features a product page whe
 * Improved code organization
 * A few CSS and Javascript elements
 
-# What can be improved
+# What can be improved?
 * The CSS in the RaceShop Products page is awkward. Image cells are too big and text cells are too small/crunched.
 * The website feels empty; pages could be combined, or more content could be added.
 * The website is difficult to use on tiny screens, such as iPhones.
-  
 
 Note: Google or other browsers may tell you the site is deceptive or dangerous, it's not.
