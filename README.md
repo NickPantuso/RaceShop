@@ -11,3 +11,5 @@ A website that lets you 'shop' for race cars online. Features a product page whe
 * Connecting to and creating a database
 * Improved code organization
 * A few CSS and Javascript elements
+
+Note: Google or other browsers may tell you the site is deceptive or dangerous, it's not.
