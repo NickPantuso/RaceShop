@@ -11,5 +11,3 @@ A website that lets you 'shop' for race cars online. Features a product page whe
 * Connecting to and creating a database
 * Improved code organization
 * A few CSS and Javascript elements
-
-Note: If you use a phone to view the website, it's likely that things will not look right and text will be overflowing out of their desired boxes.
