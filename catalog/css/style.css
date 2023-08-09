@@ -8,10 +8,10 @@ nav {
 	position: fixed;
 	position: absolute;
 	background-color: AliceBlue;
-    top: 0;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, 0);
+    	top: 0;
+    	left: 50%;
+    	margin-right: -50%;
+    	transform: translate(-50%, 0);
 	text-align: center;
 	width: 100%;
 	white-space: nowrap;
